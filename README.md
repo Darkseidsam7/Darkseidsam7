@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Finish.
 -->
+
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Darkseidsam7&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkseidsam7&theme=tokyonight" />
+</p>
