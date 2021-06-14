@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking contributor for .... SAM-T-POINT
 - 🤔 I’m looking for help to grow .... SAM-T-POINT
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Website](https://www.samtpoint.in)
+- 📫 How to reach me: ...[Website](https://www.samtpoint.tech)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Finish.
 -->
